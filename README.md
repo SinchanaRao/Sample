@@ -1,4 +1,4 @@
 # Sample
 Learning GIT
-lets make a project, may be AI Agent
+I have a project idea
 Sure, let me know when.
